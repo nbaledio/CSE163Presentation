@@ -1,0 +1,25 @@
+/*Format the body*/
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  padding-top: 40px;
+  position: relative;
+  width: 960px;
+}
+
+/*Move credits text to bottom*/
+div {
+  position: absolute;
+  top: 610px;
+}
+
+/*Format Bullet Chart with specific colors, font, etc*/
+.bullet { font: 12px sans-serif; }
+.bullet .marker { stroke: #000; stroke-width: 2px;}
+.bullet .tick line { stroke: #666; stroke-width: .5x; }
+.bullet .range.s0 { fill: #139c3b }
+.bullet .range.s1 { fill: #dbce14 }
+.bullet .range.s2 { fill: #C73030 }
+.bullet .measure.s0 { fill: #8cb2d1 }
+.bullet .title { font-size: 14px; font-weight: bold; }
+.bullet .subtitle { fill: #999;}
