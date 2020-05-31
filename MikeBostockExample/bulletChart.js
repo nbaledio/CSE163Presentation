@@ -6,6 +6,8 @@ Revised to V5/Commented by Nathan Baledio
 80 characters perline, avoid tabs. Indet at 4 spaces. See google style guide on
 JavaScript if needed.
 -----------------------------------------------------------------------------*/ 
+//Original hosted on https://bl.ocks.org/mbostock/4061961
+//Revision hosted on https://people.ucsc.edu/~nbaledio/CSE163Presentation/MikeBostockExample/
 
 //Define the margins
 var margin = {top: 5, right: 40, bottom: 20, left: 120},
